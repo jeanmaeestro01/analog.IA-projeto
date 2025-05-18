@@ -1,14 +1,27 @@
 # analog.IA-projeto
-Analog.IA é um sistema de múltiplos agentes projetado para explicar conceitos de forma clara e memorável através de cards minimalistas com analogias visuais.
 
-O sistema funciona da seguinte maneira:
+# 🤖 Analog.IA: Explicação Visual Minimalista de Conceitos ✨
 
-Agente_buscador: Este agente recebe uma pergunta sobre um conceito e busca informações confiáveis e detalhadas sobre ele na internet, priorizando fontes como enciclopédias online e sites educacionais renomados. A saída é um resumo detalhado e bem referenciado do conceito.
+Um sistema multiagente para transformar o aprendizado de conceitos complexos em cards visuais simples e memoráveis, utilizando analogias impactantes.
 
-Agente_Resumo_Analogia: Este agente recebe a informação detalhada do conceito e realiza duas tarefas principais: cria um resumo conciso e em linguagem acessível, adequado para um card, e desenvolve uma analogia visual simples e memorável para explicar o conceito de forma intuitiva. A saída são o resumo e a analogia visual (descrita textualmente) separados.
+## ⚙️ Funcionamento:
 
-Agente_Criador_Card: Este agente recebe a pergunta original, o resumo do conceito e a analogia visual. Sua função é criar o conteúdo textual para o card (título conciso e texto explicativo curto utilizando a analogia) e descrever a ilustração minimalista que representará a analogia visual, especificando os elementos simbólicos e o estilo de linhas finas.
+* ### 🔍 Agente\_buscador:
+    Recebe a pergunta sobre um conceito e busca informações confiáveis e detalhadas online.
+    ➡️ **Saída:** Resumo detalhado e referenciado do conceito.
 
-Agente_Criador_Prompt_Imagem: Este agente recebe a pergunta original, o resumo com a analogia visual e o conteúdo do card (título, texto e descrição da ilustração). Sua tarefa é gerar um prompt de texto bem formatado para uma IA de geração de imagens. Este prompt instrui a IA a criar uma ilustração minimalista no formato vertical de card, utilizando linhas finas e a analogia visual como foco central, complementando o título e o texto do card.
+* ### 💡 Agente\_Resumo\_Analogia:
+    Analisa a informação, cria um resumo conciso e desenvolve uma analogia visual simples e memorável.
+    ➡️ **Saída:** Resumo do conceito e analogia visual (descrita textualmente) separados.
 
-O objetivo do Analog.IA é transformar a explicação de conceitos complexos em cards visuais simples, diretos e eficazes, facilitando o aprendizado através de analogias representadas de forma minimalista.
+* ### 🎨 Agente\_Criador\_Card:
+    Cria o texto para o card (título e explicação curta com a analogia) e descreve a ilustração minimalista (elementos simbólicos, linhas finas).
+    ➡️ **Saída:** Conteúdo textual do card e descrição da ilustração.
+
+* ### 🖼️ Agente\_Criador\_Prompt\_Imagem:
+    Gera um prompt de texto formatado para a IA de imagem criar um card vertical minimalista com a analogia visual como foco, complementando o texto.
+    ➡️ **Saída:** Prompt de texto para a IA de imagem.
+
+## 🎯 Objetivo:
+
+Simplificar o aprendizado de conceitos complexos através de cards visuais diretos e eficazes, utilizando analogias minimalistas.
