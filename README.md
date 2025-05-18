@@ -3,8 +3,6 @@
     <img src="Ejemplo1.png" width="300">
     <img src="Ejemplo2.png" width="300">
     <img src="Ejemplo3.png" width="300">
-
-
   </a>
 </p>
 
