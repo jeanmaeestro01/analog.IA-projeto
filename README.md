@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.alura.com.br/" target="_blank">
     <img src="Ejemplo1.png" alt="Alura" width="300">
+    <img src="Ejemplo2.png" alt="Alura" width="300">
+    <img src="Ejemplo3.png" alt="Alura" width="300">
+
+
   </a>
 </p>
 
