@@ -25,3 +25,16 @@ Um sistema multiagente para transformar o aprendizado de conceitos complexos em 
 ## 🎯 Objetivo:
 
 Simplificar o aprendizado de conceitos complexos através de cards visuais diretos e eficazes, utilizando analogias minimalistas.
+
+
+## 🚀 Próximos Passos:
+
+1.  **Copiar o Prompt:** O Agente\_Criador\_Prompt\_Imagem gerará um texto específico. Copie integralmente este texto.
+2.  **Colar no Gerador de Imagem:** Cole o prompt copiado em uma ferramenta de geração de imagem de sua preferência.
+
+## ❗ Importante: Geração da Imagem
+
+O Analog.IA chega até a criação do prompt de imagem, pois a configuração de um agente para gerar imagens diretamente dentro do ambiente atual não foi implementada. O prompt gerado pelo Agente_Criador_Prompt_Imagem é o insumo para a criação visual do card.
+
+
+
