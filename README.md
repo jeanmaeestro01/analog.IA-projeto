@@ -1,4 +1,8 @@
-# analog.IA-projeto
+<p align="center">
+  <a href="https://www.alura.com.br/" target="_blank">
+    <img src="Ejemplo1.png" alt="Alura" width="300">
+  </a>
+</p>
 
 # 🤖 Analog.IA: Explicação Visual Minimalista de Conceitos ✨
 
